@@ -11,4 +11,4 @@ To provide i5 cadets a real, tangible, and engaging view of the 17X career field
 
 ### Want to learn more?
 
-See our Docs repo: [a link](https://github.com/CyberTrainingExercise/Docs/blob/master/readme.md)
+See our [Docs](https://github.com/CyberTrainingExercise/Docs/blob/master/readme.md) repo
