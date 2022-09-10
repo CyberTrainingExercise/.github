@@ -2,7 +2,7 @@
 
 This Github org contains all the source code for every CTX project.
 
-![Logo](ctxlogo_nobackground.png)
+<img src="./ctxlogo_nobackground.png" alt="CTX Logo" width="400">
 
 ### Our Vision
 
