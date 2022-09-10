@@ -2,6 +2,8 @@
 
 This Github org contains all the source code for every CTX project.
 
+![Logo](ctxlogo_nobackground.png)
+
 ### Our Vision
 
 Pioneer the future of Space Force cadet training.
