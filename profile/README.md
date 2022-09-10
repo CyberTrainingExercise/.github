@@ -2,8 +2,8 @@
 
 This Github org contains all the source code for every CTX project.
 
-<img src="./i5_logo.png" alt="CTX Logo" width="400">
-<img src="./ctx_logo.png" alt="CTX Logo" width="400">
+<img src="./i5_logo.png" alt="CTX Logo" width="200">
+<img src="./ctx_logo.png" alt="CTX Logo" width="200">
 
 ### Our Vision
 
