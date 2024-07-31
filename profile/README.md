@@ -4,11 +4,11 @@ This Github org contains all the source code for every CTX project.
 
 ### Our Vision
 
-> Pioneer the future of Space Force cadet training.
+> Pioneer the future of cadet training.
 
 ### Our Mission
 
-> To provide i5 cadets a real, tangible, and engaging view of the 17X career fields and how they operate and interoperate within the Space Force.
+> To provide i5 cadets a real, tangible, and engaging view of the cyber career fields and how they operate and interoperate.
 
 ### Want to learn more?
 
